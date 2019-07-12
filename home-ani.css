@@ -2424,7 +2424,7 @@ i.fly-in-out {
   }
    .card-img-container
   {
-    margin:auto;
+    margin-left:-5px;
     background: url(img/pasc-img.png) center center no-repeat;
   } 
   }
