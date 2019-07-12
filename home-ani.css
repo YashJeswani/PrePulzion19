@@ -2406,6 +2406,9 @@ i.fly-in-out {
     margin-left: 80px;
     margin-right: 110px;
   }
+   .navbar-nav{
+    padding-top: 10px; 
+  } 
   #arc_container
   {
      margin-left: -90px;
