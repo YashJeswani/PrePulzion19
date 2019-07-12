@@ -2424,7 +2424,7 @@ i.fly-in-out {
   }
    .card-img-container
   {
-    width:50px;
+    width:200px;
   } 
   }
   @media only screen and (min-width : 480px) and (max-width : 768px) {
